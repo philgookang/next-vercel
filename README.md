@@ -3,4 +3,4 @@ Hello World
 
 
 # Added Badge.   
-![Monitor - Repo Builds With No Problems](https://github.com/philgookang/next-vercel/actions/workflows/monitor_build.yml/badge.svg?branch=master)
+![Monitor - Repo Builds With No Problems](https://github.com/philgookang/next-vercel/actions/workflows/CI/badge.svg?branch=master)
