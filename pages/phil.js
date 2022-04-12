@@ -1,6 +1,6 @@
 import Head from 'next/head'
 
-export default function Phil() {
+exp il() {
   return (
     <div className="container">
 		hello world!
